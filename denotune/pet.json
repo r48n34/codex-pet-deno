@@ -1,0 +1,6 @@
+{
+  "id": "denotune",
+  "displayName": "DenoTune",
+  "description": "A friendly Deno-inspired long-neck mascot with headphones, simple chibi body, and clean pixel-pet styling.",
+  "spritesheetPath": "spritesheet.webp"
+}
