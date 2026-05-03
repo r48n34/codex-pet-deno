@@ -12,7 +12,7 @@ It is a small long-neck companion with headphones, a pale green body, chunky pix
 1. To install the pet locally, copy the `denotune` folder into your Codex pets directory:  
 https://developers.openai.com/codex/app/settings#codex-pets  
 
-![DenoTune Demo 2](assets/codex1.png)
+![Codex install](assets/codex1.png)
 
 2. Then restart Codex or reload pets if your Codex build supports live reload.
 
@@ -24,3 +24,6 @@ https://developers.openai.com/codex/app/settings#codex-pets
 2. This pet is an unofficial fan-made Codex pet inspired by the Deno open-source JavaScript runtime mascot and reference sketches. It is not affiliated with or endorsed by the Deno project.
 
 3. Thanks to https://hashrock.hatenablog.com/entry/2019/12/29/161310 for the references image.
+
+## 🎨 Spritesheet Preview
+![Spritesheet](denotune/spritesheet.webp)
